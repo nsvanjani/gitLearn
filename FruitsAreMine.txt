@@ -7,3 +7,10 @@ papaya
 dragonfruit
 jack fruit
 custarrdapple
+pears
+oranges
+lemon
+lime
+pomogranage
+pinapple
+
